@@ -2,11 +2,13 @@
 
 SimHub dashboard for Euro Truck Simulator 2. Should also work for American Truck Simulator. More information on the available features [here](https://www.racedepartment.com/downloads/simhub-dashboard-for-euro-truck-simulator-2.28026/).
 
+![Euro Truck Simulator 2 Dashboard for SimHub](https://github.com/Pirito10/ETS2-Dashboard/assets/74465348/d4cff576-f059-4158-b039-76e4e37a7746)
+
 # Installing The Dashboard
 
 - Download and install [SimHub](https://www.simhubdash.com).
 
-  - Download the [latest release](https://github.com/Pirito10/ETS2-Dashboard/releases/latest/download/ETS2-Dashboard.simhubdash), open the file `ETS2-Dashboard.simhubdash`, and click on "Import into SimHub library".
+  - Download the [**latest release**](https://github.com/Pirito10/ETS2-Dashboard/releases/latest/download/ETS2-Dashboard.simhubdash), open the file `ETS2-Dashboard.simhubdash`, and click on "Import into SimHub library".
 
   - Or download all the files, navigate to `C:\Program Files (x86)\SimHub\DashTemplates`, create a folder named `ETS2 Dashboard` and paste all the files there.
 
