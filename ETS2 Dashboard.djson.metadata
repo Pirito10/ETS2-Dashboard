@@ -1,0 +1,22 @@
+{
+  "Category": "Euro Truck Simulator 2",
+  "Title": "ETS2 Dashboard",
+  "Description": "Completely Functional Dashboard For Euro Truck Simulator 2",
+  "Author": "Pirito10",
+  "ScreenCount": 2.0,
+  "InGameScreensIndexs": [
+    1
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 1,
+  "IsOverlay": false,
+  "ShowInTaskBar": true,
+  "Width": 1280.0,
+  "Height": 720.0,
+  "OverlaySizeWarning": true,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
